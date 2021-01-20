@@ -13,7 +13,7 @@
 /** 是否为读取新数据(对应下拉刷新) */
 @property (nonatomic,assign) BOOL isLoadNew;
 /** 是否为最后一页 */
-@property (nonatomic,assign) BOOL isLastPage;
+@property (nonatomic,assign) BOOL isLast;
 
 @property (nonatomic, copy) NSArray<<#ModelClass#> *> *dataArray;
 
