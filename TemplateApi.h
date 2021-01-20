@@ -17,7 +17,5 @@
 
 @property (nonatomic, copy) NSArray<<#ModelClass#> *> *dataArray;
 
-@property (nonatomic, <#p#>) <#ModelClass#> *<#name#>;
-
 @end
 
