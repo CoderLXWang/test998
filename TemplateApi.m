@@ -6,9 +6,6 @@
 //  Copyright © 2020 qimeng. All rights reserved.
 //
 
-#import "TemplateApi.h"
-#import "NSMutableDictionary+SJNetworkParams.h"
-
 @implementation TemplateApi
 {
     int page;//记录页码值
